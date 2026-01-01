@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "WebFetch(domain:kiebaproperty.co.uk)",
+      "WebFetch(domain:www.skool.com)",
+      "WebSearch",
+      "WebFetch(domain:www.kiebaproperty.com)"
+    ]
+  }
+}
